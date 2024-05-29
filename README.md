@@ -29,3 +29,6 @@ I am an AI Engineer currently pursuing a Master's degree in Artificial Intellige
 - Finalist at the InnoX Winter Camp 2024, collaborating with a startup team on AI-driven solutions.
 - Authored a research paper on domain adaptation techniques for urban green space detection.
 
+
+### GitHub Stats ⭐
+[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=ZhangZixunCodeSpace&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
